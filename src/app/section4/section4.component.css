@@ -1,0 +1,28 @@
+.main{
+    background-color: #225db0;
+    padding: 30px;
+    color:#ffffff;
+    
+
+}
+.carousel-inner{
+    padding: 5%;
+}
+img{
+    height: 500px;
+    width:200px
+}
+button{
+    background-color: transparent;
+    color:white;
+    border-width: 2px;
+    border-color: #ffffff;
+    height: 40px;
+    width: 70px;
+    
+}
+.list{
+    padding-left: 5%;
+}
+
+

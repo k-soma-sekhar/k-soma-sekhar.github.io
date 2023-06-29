@@ -1,0 +1,39 @@
+.main-container{
+    background-color:#225db0;
+    color:white;
+    height:100vh;
+    text-align:left;
+    font-family:"Roboto";
+    padding:7%;
+    
+}
+.child-container{
+    display:flex;
+    justify-content: space-evenly;
+    text-align: center;
+    row-gap: 15px;
+}
+.sections{
+    background-color: white;
+    height:100%;
+    width: 400px;
+    margin:15px;
+    padding-top:15px;
+    border-radius: 15px;
+    
+    
+}
+.sections>
+img{
+    height:45px;
+
+}
+.sections>
+h1{
+    font-size: 20px;
+    color: #1f2933;
+    font-weight: lighter;
+}
+.text{
+    margin-left: 15px;
+}
